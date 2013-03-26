@@ -1,3 +1,6 @@
+cloned from http://code.google.com/p/metadata-extractor/
+
+
 metadata-extractor
 ==================
 
